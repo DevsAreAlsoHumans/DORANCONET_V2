@@ -1,2 +1,1 @@
-# DORANCONET_V2
-Ceci est la version 2 du projet Doranconet, un réseau social pour les écoles en opensource
+Framework DORANCORE sur lequel vont être développé les applications DORANCONETWORK et d'autres
